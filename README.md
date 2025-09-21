@@ -29,7 +29,7 @@ This project is a **Simon Says memory game** built using an **Arduino UNO**, pus
 1. Game generates a random sequence of LED blinks.  
 2. Player must press the corresponding buttons in order.  
 3. If the sequence is correct, the game progresses to the next round with a longer sequence.  
-4. If the player makes a mistake, the game ends, and the score is displayed.  
+4. If the player makes a mistake, the game ends.  
 
 ---
 
