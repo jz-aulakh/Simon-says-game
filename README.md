@@ -72,6 +72,12 @@ This project is a **Simon Says memory game** built using an **Arduino UNO**, pus
 This project is open-source. Feel free to use, modify, and share.  
 
 ---
+---
+
+## 🙏 Acknowledgements
+This project is heavily inspired by an open-source Simon Says game project on GitHub.  
+Most of the code and circuit design were adapted from an unknown author’s repository.  
+Full credit goes to the original creator — if you are the author, please reach out so we can properly acknowledge you here.
 
 ## 🤝 Contributions
 Pull requests and improvements are welcome!  
